@@ -1,2 +1,1 @@
-# CSS-Flip-Card-that-expands
-A CSS Flip Card that expands and shows more detail and links etc
+# CSS card that flips when clicked and shows more links around the back of the card
